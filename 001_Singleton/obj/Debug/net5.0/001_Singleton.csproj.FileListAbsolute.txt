@@ -13,4 +13,3 @@ C:\Users\WANGGAO\Source\Repos\Design-Patterns\001_Singleton\obj\Debug\net5.0\001
 C:\Users\WANGGAO\Source\Repos\Design-Patterns\001_Singleton\obj\Debug\net5.0\ref\001_Singleton.dll
 C:\Users\WANGGAO\Source\Repos\Design-Patterns\001_Singleton\obj\Debug\net5.0\001_Singleton.pdb
 C:\Users\WANGGAO\Source\Repos\Design-Patterns\001_Singleton\obj\Debug\net5.0\001_Singleton.genruntimeconfig.cache
-C:\Users\WANGGAO\source\repos\Design-Patterns\001_Singleton\obj\Debug\net5.0\001_Singleton.csproj.AssemblyReference.cache
