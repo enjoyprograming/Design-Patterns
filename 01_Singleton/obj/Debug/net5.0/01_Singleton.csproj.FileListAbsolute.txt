@@ -1,0 +1,32 @@
+E:\study\Design Patterns Study\Design Patterns\01_Singleton\bin\Debug\net5.0\01_Singleton.exe
+E:\study\Design Patterns Study\Design Patterns\01_Singleton\bin\Debug\net5.0\01_Singleton.deps.json
+E:\study\Design Patterns Study\Design Patterns\01_Singleton\bin\Debug\net5.0\01_Singleton.runtimeconfig.json
+E:\study\Design Patterns Study\Design Patterns\01_Singleton\bin\Debug\net5.0\01_Singleton.runtimeconfig.dev.json
+E:\study\Design Patterns Study\Design Patterns\01_Singleton\bin\Debug\net5.0\01_Singleton.dll
+E:\study\Design Patterns Study\Design Patterns\01_Singleton\bin\Debug\net5.0\ref\01_Singleton.dll
+E:\study\Design Patterns Study\Design Patterns\01_Singleton\bin\Debug\net5.0\01_Singleton.pdb
+E:\study\Design Patterns Study\Design Patterns\01_Singleton\obj\Debug\net5.0\01_Singleton.csproj.AssemblyReference.cache
+E:\study\Design Patterns Study\Design Patterns\01_Singleton\obj\Debug\net5.0\01_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\Design Patterns Study\Design Patterns\01_Singleton\obj\Debug\net5.0\01_Singleton.AssemblyInfoInputs.cache
+E:\study\Design Patterns Study\Design Patterns\01_Singleton\obj\Debug\net5.0\01_Singleton.AssemblyInfo.cs
+E:\study\Design Patterns Study\Design Patterns\01_Singleton\obj\Debug\net5.0\01_Singleton.csproj.CoreCompileInputs.cache
+E:\study\Design Patterns Study\Design Patterns\01_Singleton\obj\Debug\net5.0\01_Singleton.dll
+E:\study\Design Patterns Study\Design Patterns\01_Singleton\obj\Debug\net5.0\ref\01_Singleton.dll
+E:\study\Design Patterns Study\Design Patterns\01_Singleton\obj\Debug\net5.0\01_Singleton.pdb
+E:\study\Design Patterns Study\Design Patterns\01_Singleton\obj\Debug\net5.0\01_Singleton.genruntimeconfig.cache
+C:\Users\WANGGAO\Source\Repos\Design-Patterns\01_Singleton\bin\Debug\net5.0\01_Singleton.exe
+C:\Users\WANGGAO\Source\Repos\Design-Patterns\01_Singleton\bin\Debug\net5.0\01_Singleton.deps.json
+C:\Users\WANGGAO\Source\Repos\Design-Patterns\01_Singleton\bin\Debug\net5.0\01_Singleton.runtimeconfig.json
+C:\Users\WANGGAO\Source\Repos\Design-Patterns\01_Singleton\bin\Debug\net5.0\01_Singleton.runtimeconfig.dev.json
+C:\Users\WANGGAO\Source\Repos\Design-Patterns\01_Singleton\bin\Debug\net5.0\01_Singleton.dll
+C:\Users\WANGGAO\Source\Repos\Design-Patterns\01_Singleton\bin\Debug\net5.0\ref\01_Singleton.dll
+C:\Users\WANGGAO\Source\Repos\Design-Patterns\01_Singleton\bin\Debug\net5.0\01_Singleton.pdb
+C:\Users\WANGGAO\Source\Repos\Design-Patterns\01_Singleton\obj\Debug\net5.0\01_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WANGGAO\Source\Repos\Design-Patterns\01_Singleton\obj\Debug\net5.0\01_Singleton.AssemblyInfoInputs.cache
+C:\Users\WANGGAO\Source\Repos\Design-Patterns\01_Singleton\obj\Debug\net5.0\01_Singleton.AssemblyInfo.cs
+C:\Users\WANGGAO\Source\Repos\Design-Patterns\01_Singleton\obj\Debug\net5.0\01_Singleton.csproj.CoreCompileInputs.cache
+C:\Users\WANGGAO\Source\Repos\Design-Patterns\01_Singleton\obj\Debug\net5.0\01_Singleton.dll
+C:\Users\WANGGAO\Source\Repos\Design-Patterns\01_Singleton\obj\Debug\net5.0\ref\01_Singleton.dll
+C:\Users\WANGGAO\Source\Repos\Design-Patterns\01_Singleton\obj\Debug\net5.0\01_Singleton.pdb
+C:\Users\WANGGAO\Source\Repos\Design-Patterns\01_Singleton\obj\Debug\net5.0\01_Singleton.genruntimeconfig.cache
+C:\Users\WANGGAO\Source\Repos\Design-Patterns\01_Singleton\obj\Debug\net5.0\01_Singleton.csproj.AssemblyReference.cache
