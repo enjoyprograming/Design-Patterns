@@ -3,7 +3,7 @@
 ################################################################################
 
 /.vs
-/001_Singleton/obj
-/001_Singleton/bin/Debug/net5.0
+/001_Singleton/obj/*
+/001_Singleton/bin/Debug/net5.0/*
 /01_Singleton/obj
 /01_Singleton/bin/Debug/net5.0
